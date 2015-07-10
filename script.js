@@ -18,7 +18,7 @@ for (var i = 9; i >= 0; i--) {
   console.log(i);
 }
 
-var i = 1
+var i = 1;
 while (i < 5) {
   for (var k = 0; k < 3; k++)
     console.log(i);
